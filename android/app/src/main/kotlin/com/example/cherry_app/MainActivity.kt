@@ -1,4 +1,4 @@
-package com.example.cherry_app
+package com.cherry.cherry_app
 
 import io.flutter.embedding.android.FlutterActivity
 

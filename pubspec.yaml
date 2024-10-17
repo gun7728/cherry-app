@@ -38,6 +38,10 @@ dependencies:
   flutter_local_notifications: ^17.2.3
   timezone: ^0.9.4
   flutter_riverpod: ^2.5.1
+  http: ^1.2.2
+  html: ^0.15.4
+  dio: ^5.7.0
+  home_widget: ^0.7.0
 
 dev_dependencies:
   flutter_test:
